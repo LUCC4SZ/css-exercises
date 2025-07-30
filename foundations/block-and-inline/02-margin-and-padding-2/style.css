@@ -7,21 +7,46 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 5px;
+  /* SOLUTION
+  padding: 8px; */
 }
 
 .title {
   background: #e3f4ff;
+  padding: 10px;
+  /* SOLUTION
+  margin-bottom: 8px;
+  font-size: 16px;
+  padding: 8px; */
 }
 
 .content {
   background: #e3f4ff;
+  padding: 15px 5px;
+  margin: -16px 0px 16px;
+  /* SOLUTION
+  margin-bottom: 8px;
+  padding: 16px 8px; */
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  padding: 5px;
+  /* SOLUTION
+  text-align: center;
+  padding: 8px; */
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: auto;
+  padding: 5px 25px;
+  /* SOLUTION
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px; */
 }
