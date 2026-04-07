@@ -19,6 +19,7 @@
 
 .header {
   background-color: #393f4d;
+  display: grid;
 }
 
 .menu ul,
