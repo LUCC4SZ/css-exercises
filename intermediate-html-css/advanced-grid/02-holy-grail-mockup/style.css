@@ -7,6 +7,7 @@
   text-align: center;
   display: grid;
   grid-template-columns: 20% 80%;
+  grid-template-rows: 20% 70% 10%;
 }
 
 .container div {
@@ -20,6 +21,7 @@
 .header {
   background-color: #393f4d;
   display: grid;
+
 }
 
 .menu ul,
